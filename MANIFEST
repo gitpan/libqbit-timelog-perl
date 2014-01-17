@@ -1,0 +1,17 @@
+.gitignore
+.project
+.proverc
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+debian/changelog
+debian/compat
+debian/control
+debian/copyright
+debian/rules
+dist.ini
+lib/QBit/TimeLog.pm
+t/basic.t

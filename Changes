@@ -1,0 +1,59 @@
+==================================================
+Changes from 2012-12-11 00:00:00 +0000 to present.
+==================================================
+
+----------------------------------------
+version 0.3 at 2013-12-11 07:52:22 +0000
+----------------------------------------
+
+  Change: e51e8f75f9b26101590efcca622dbe8eb4ace427
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-12-11 11:51:59 +0000
+
+    Delete changelog 
+
+  Change: b8e7a6f45fe662e8b154a563c37e790f941d64b7
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-12-10 23:47:05 +0000
+
+    Merge pull request #1 from wtertius/master
+
+    Use 'exists' when it's enough and do not stringify an object excess
+    time... 
+
+  Change: 5597ff130258ead7eccaf085b88aa09a9dff134a
+  Author: Dmitry Lukiyanchuk <tertius@yandex-team.ru>
+  Date : 2013-12-11 10:14:38 +0000
+
+    Use 'exists' when it's enough and do not stringify an object excess
+    time. 
+
+----------------------------------------
+version 0.2 at 2013-09-01 17:18:22 +0000
+----------------------------------------
+
+  Change: 52b4e2e6e69088ef45bf3040250c34d930d6bcfa
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-09-01 21:18:22 +0000
+
+    Fixed debian dependses 
+
+----------------------------------------
+version 0.1 at 2013-08-31 14:22:48 +0000
+----------------------------------------
+
+  Change: 5139892691ef7731f1ef77052448c51f43515e47
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-31 18:22:48 +0000
+
+    Version 0.1 
+
+  Change: 1801b596140e46d9f1f21764adfe15346e2ecaa9
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-31 18:21:51 +0000
+
+    Initial commit 
+
+================
+End of releases.
+================
